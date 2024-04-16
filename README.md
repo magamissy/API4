@@ -70,7 +70,7 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
 **Sprint 4:**
 >    Presentation 18/06/2024
 * Conclusão do Projeto.
-* Apresentação e Excução do Produto completo.
+* Apresentação e Execução do Produto completo.
 * Documentação de Acompanhamento e Conclusão do Projeto. 
  
 # Links  
