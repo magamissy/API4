@@ -5,7 +5,7 @@ Acompanhamento do processo de aprendizagem por projeto integrador analisando a m
      <a href="#empresa">Empresa</a> • 
      <a href="#projeto">Projeto</a> •
      <a href="#entregas">Entregas</a> •
-     <a href="#equipe">Equipe</a> •
+     <a href="#equipe">Equipe</a> 
   
 <span id="empresa">
  
