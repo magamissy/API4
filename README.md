@@ -1,12 +1,20 @@
 ![magamissy](header.png)
 Acompanhamento do processo de aprendizagem por projeto integrador analisando a movimentação de carga no Porto Navegantes de Santa Catarina. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
+
+ <p align="center">
+     <a href="#empresa">Empresa</a> • 
+     <a href="#projeto">Projeto</a> •
+     <a href="#entregas">Entregas</a> •
+     <a href="#equipe">Equipe</a> •
+  
+<span id="empresa">
  
 # PortoTech Solutions - Navegando com precisão, entregando com excelência. 
 ### Nossa Missão
-* Facilitar o comércio global e promover o crescimento econômico sustentável através da entrega confiável de soluções logísticas inovadoras para portos e navios, impulsionadas pela excelência operacional e pela tecnologia de ponta.
+Facilitar o comércio global e promover o crescimento econômico sustentável através da entrega confiável de soluções logísticas inovadoras para portos e navios, impulsionadas pela excelência operacional e pela tecnologia de ponta.
 
 ### Nossa Visão
-* Ser reconhecido como o parceiro de escolha na indústria marítima, oferecendo soluções logísticas integradas que otimizam a eficiência, a segurança e a sustentabilidade dos portos e navios em todo o mundo.
+Ser reconhecido como o parceiro de escolha na indústria marítima, oferecendo soluções logísticas integradas que otimizam a eficiência, a segurança e a sustentabilidade dos portos e navios em todo o mundo.
 
 ### Nossos Valores
 **Excelência:** Comprometemo-nos com os mais altos padrões de qualidade, desempenho e serviço em tudo o que fazemos.
@@ -22,9 +30,9 @@ Acompanhamento do processo de aprendizagem por projeto integrador analisando a m
 Esses elementos formam a espinha dorsal da nossa empresa, orientando-nos em direção ao sucesso enquanto contribuímos para um mundo mais conectado, eficiente e sustentável.
 
 
+<span id="projeto">
 
-
-# O Projeto
+# :mag_right: Sobre o projeto:
 
 O objetivo deste projeto é desenvolver uma série histórica acessível que consolide os dados de movimentação dos portos, oferecendo uma plataforma abrangente para análise. Além disso, será elaborado um modelo de projeção utilizando técnicas de regressão, visando explicar a variação da prancha média operacional ao longo do tempo. O foco será demonstrar profundo conhecimento sobre modelos de eficiência para análise, interpretando os dados dentro do contexto de big data. A capacidade de modelar grandes volumes de dados será essencial para esse propósito, assim como a habilidade de criar modelos de projeção que ofereçam insights precisos e úteis. Adicionalmente, será necessário compreender as características técnicas da estrutura portuária para garantir que os modelos desenvolvidos sejam aplicáveis e relevantes para o ambiente em questão.
 
@@ -32,7 +40,7 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
 
 
  
-**COMPOSIÇÃO DO PROJETO**
+### :bar_chart: Composição do projeto
 
   - Banco de Dados Técnicos, fornecidos pelo cliente interno.
   - Trabalho de acompanhamento e conclusão de projeto, extraídos via pesquisa de campo e referências bibliográficas.
@@ -42,7 +50,7 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
 
 
 
-**TÉCNOLOGIAS**
+ ### :hammer_and_wrench: Ferramentas e Tecnologias
 
 * Python
 * GitHub
@@ -52,8 +60,21 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
 * Microsoft Office
 
 
- 
-# Etapas do projeto 
+
+ <span id="entregas">
+  
+## Etapas do projeto 
+
+### :dart: Entregas
+
+Sprint ID | Data | Tag | Status
+----------|-----|-----|-------
+#1 | 16/04/2024 | <p><a >1ª Sprint</a></p> | CONCLUÍDO
+#2 | 07/05/2024 | <p><a >2ª Sprint</a></p> | IN PROGRESS
+#3 | 28/05/2024 | <p><a >3ª Sprint</a></p> | IN PROGRESS
+#4 | 18/06/2024 | <p><a >4ª Sprint</a></p> | IN PROGRESS
+
+
 **Sprint 1:**
 >     Presentation 16/04/2024
 * Backlog do produto​
@@ -86,7 +107,8 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
   
     _Em casos de falha do funcionamento dos arquivos e aplicações presentes, por favor contatar
  um membro de nossa equipe diretamente ao invés de usar o issue tracker._
- 
+
+ <span id="equipe">
  
 # Agradecimentos
 * Centro Paula Souza
