@@ -7,16 +7,18 @@ Acompanhamento do processo de aprendizagem por projeto integrador analisando a m
 # A Empresa 
 # PortoTech Solutions - Navegando com precisão, entregando com excelência. 
 
-* Missão: Facilitar o comércio global e promover o crescimento econômico sustentável através da entrega confiável de soluções logísticas inovadoras para portos e navios, impulsionadas pela excelência operacional e pela tecnologia de ponta.
+# Nossa Missão
+* Facilitar o comércio global e promover o crescimento econômico sustentável através da entrega confiável de soluções logísticas inovadoras para portos e navios, impulsionadas pela excelência operacional e pela tecnologia de ponta.
 
-* Visão: Ser reconhecido como o parceiro de escolha na indústria marítima, oferecendo soluções logísticas integradas que otimizam a eficiência, a segurança e a sustentabilidade dos portos e navios em todo o mundo.
+# Nossa Visão
+* Ser reconhecido como o parceiro de escolha na indústria marítima, oferecendo soluções logísticas integradas que otimizam a eficiência, a segurança e a sustentabilidade dos portos e navios em todo o mundo.
 
-* Valores:
-Excelência: Comprometemo-nos com os mais altos padrões de qualidade, desempenho e serviço em tudo o que fazemos.
-Inovação: Abraçamos a mudança e buscamos constantemente novas ideias e tecnologias para melhorar nossos serviços e impulsionar o progresso da indústria.
-Integridade: Agimos com honestidade, transparência e ética em todas as nossas interações, construindo relacionamentos baseados na confiança e na credibilidade.
-Sustentabilidade: Promovemos práticas ambientalmente responsáveis e buscamos soluções que equilibrem as necessidades econômicas, sociais e ambientais.
-Colaboração: Valorizamos a diversidade de pensamento e trabalhamos em estreita colaboração com nossos clientes, parceiros e comunidades para alcançar objetivos comuns.
+# Nossos Valores
+* Excelência: Comprometemo-nos com os mais altos padrões de qualidade, desempenho e serviço em tudo o que fazemos.
+* Inovação: Abraçamos a mudança e buscamos constantemente novas ideias e tecnologias para melhorar nossos serviços e impulsionar o progresso da indústria.
+* Integridade: Agimos com honestidade, transparência e ética em todas as nossas interações, construindo relacionamentos baseados na confiança e na credibilidade.
+* Sustentabilidade: Promovemos práticas ambientalmente responsáveis e buscamos soluções que equilibrem as necessidades econômicas, sociais e ambientais.
+* Colaboração: Valorizamos a diversidade de pensamento e trabalhamos em estreita colaboração com nossos clientes, parceiros e comunidades para alcançar objetivos comuns.
 Esses elementos formam a espinha dorsal da nossa empresa, orientando-nos em direção ao sucesso enquanto contribuímos para um mundo mais conectado, eficiente e sustentável.
 
 
