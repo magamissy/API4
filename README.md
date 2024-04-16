@@ -24,6 +24,8 @@ Esses elementos formam a espinha dorsal da nossa empresa, orientando-nos em dire
 O objetivo deste projeto é desenvolver uma série histórica acessível que consolide os dados de movimentação dos portos, oferecendo uma plataforma abrangente para análise. Além disso, será elaborado um modelo de projeção utilizando técnicas de regressão, visando explicar a variação da prancha média operacional ao longo do tempo. O foco será demonstrar profundo conhecimento sobre modelos de eficiência para análise, interpretando os dados dentro do contexto de big data. A capacidade de modelar grandes volumes de dados será essencial para esse propósito, assim como a habilidade de criar modelos de projeção que ofereçam insights precisos e úteis. Adicionalmente, será necessário compreender as características técnicas da estrutura portuária para garantir que os modelos desenvolvidos sejam aplicáveis e relevantes para o ambiente em questão.
 
  
+
+
  
 **COMPOSIÇÃO DO PROJETO**
 
