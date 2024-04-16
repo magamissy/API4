@@ -17,7 +17,7 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
  
 
 # Etapas do projeto 
-* Sprint 1:
+# Sprint 1:
 >     Presentation 16/04/2024
 * Backlog do produto​
 * GitHub estruturado com link disponibilizado​
@@ -25,23 +25,21 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
 * Atribuição das atividades para a Sprint 2 
 
 
-* Sprint 2:
+# Sprint 2:
 >    Presentation 07/05/2024
 * A definir pelo cliente...
 
 
-* Sprint 3:
+# Sprint 3:
 >    Presentation 28/05/2024
 * A definir pelo cliente...
 
 
-* Sprint 4:
+# Sprint 4:
 >    Presentation 18/06/2024
 * Conclusão do Projeto.
 * Apresentação e Excução do Produto completo.
 * Documentação de Acompanhamento e Conclusão do Projeto.
-
-
 
 
 
