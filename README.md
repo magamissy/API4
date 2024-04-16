@@ -8,12 +8,12 @@
 # Tecnologias 
 Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
  
-*Python
-*GitHub
-*PowerBI 
-*Jira Software
-*Slack 
-*Microsoft Office
+* Python
+* GitHub
+* PowerBI 
+* Jira Software
+* Slack 
+* Microsoft Office
  
 
 # Etapas do projeto 
