@@ -90,4 +90,5 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
 * Turma do 4° Semestre / Inicio em Agosto de 2022
 
 **Obrigado por nos visitar, good coding!**
+
 **Thanks to visiting us and good coding!**
