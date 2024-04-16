@@ -78,7 +78,7 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
  
  
 # Links  
-  - Repositório: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G- 
+  - Repositório: https://github.com/magamissy/API4
   - Acompanhamento da API:
   - Google Collab: 
 
