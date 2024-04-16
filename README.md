@@ -24,9 +24,11 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
 * Jira Software estruturado​
 * Atribuição das atividades para a Sprint 2 
 
+
 * Sprint 2:
 >    Presentation 07/05/2024
 * A definir pelo cliente...
+
 
 * Sprint 3:
 >    Presentation 28/05/2024
