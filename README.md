@@ -17,9 +17,12 @@ Acompanhamento do processo de aprendizagem por projeto integrador analisando a m
 Esses elementos formam a espinha dorsal da nossa empresa, orientando-nos em direção ao sucesso enquanto contribuímos para um mundo mais conectado, eficiente e sustentável.
 
 
+
+
 # O Projeto
 
 O objetivo deste projeto é desenvolver uma série histórica acessível que consolide os dados de movimentação dos portos, oferecendo uma plataforma abrangente para análise. Além disso, será elaborado um modelo de projeção utilizando técnicas de regressão, visando explicar a variação da prancha média operacional ao longo do tempo. O foco será demonstrar profundo conhecimento sobre modelos de eficiência para análise, interpretando os dados dentro do contexto de big data. A capacidade de modelar grandes volumes de dados será essencial para esse propósito, assim como a habilidade de criar modelos de projeção que ofereçam insights precisos e úteis. Adicionalmente, será necessário compreender as características técnicas da estrutura portuária para garantir que os modelos desenvolvidos sejam aplicáveis e relevantes para o ambiente em questão.
+
  
  
 **COMPOSIÇÃO DO PROJETO**
@@ -30,14 +33,17 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
   -  Dashboard Interativo para visualização e análise dos dados, via Power BI.
   -  Repositório do projeto, via Github
 
+
+
 **TÉCNOLOGIAS**
- 
+
 * Python
 * GitHub
 * PowerBI 
 * Jira Software
 * Slack 
 * Microsoft Office
+
 
  
 # Etapas do projeto 
