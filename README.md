@@ -1,4 +1,3 @@
-![magamissy](header.png)
 Acompanhamento do processo de aprendizagem por projeto integrador analisando a movimentação de carga no Porto Navegantes de Santa Catarina. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
 
  <p align="center">
@@ -9,7 +8,7 @@ Acompanhamento do processo de aprendizagem por projeto integrador analisando a m
   
 <span id="empresa">
  
-# PortoTech Solutions - Navegando com precisão, entregando com excelência. 
+# Unnamed Log Solutions - Navegando com precisão, entregando com excelência. 
 ### Nossa Missão
 Facilitar o comércio global e promover o crescimento econômico sustentável através da entrega confiável de soluções logísticas inovadoras para portos e navios, impulsionadas pela excelência operacional e pela tecnologia de ponta.
 
