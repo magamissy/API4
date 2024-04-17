@@ -116,5 +116,5 @@ Sprint ID | Data | Tag | Status
 * Professores do corpo docente da turma de Logística/2024, Noturno
 * Turma do 4° Semestre / Inicio em Agosto de 2022
 
-**Obrigado por nos visitar, good coding!**
-**Thanks to visiting us and good coding!**
+> **Obrigado por nos visitar, good coding!**
+> **Thanks to visiting us and good coding!**
