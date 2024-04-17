@@ -1,4 +1,4 @@
-![magamissy](https://github.com/magamissy/API4/issues/2)
+![magamissy](header.3_20240416_214430_0000.png)
 
 Acompanhamento do processo de aprendizagem por projeto integrador analisando a movimentação de carga no Porto Navegantes de Santa Catarina. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
 
