@@ -16,13 +16,13 @@ Com essas bases estabelecidas, estamos prontos para avançar para a próxima eta
 
 # :hammer_and_wrench: Ferramentas e Tecnologias utilizadas nessa etapa do projeto:
 
-* Python - Desenvolvimento 
-* GitHub - Documentação
-* Jira Software - Divisão de Tarefas
-* Slack - Comunicação
+* Python - Desenvolvimento .
+* GitHub - Documentação.
+* Jira Software - Divisão de Tarefas.
+* Slack - Comunicação.
 
 # :ship: Objeto de Estudo
-> Dados Fornecidos pelo Cliente
+> Dados Fornecidos pelo Cliente.
 * Porto Navegantes de Santa Catarina.
 * Dados de Atracação e Saída dos Navios que movimentam Soja no PortoNave.
 * Análise da Movimentação de 2023.
@@ -36,9 +36,9 @@ Com essas bases estabelecidas, estamos prontos para avançar para a próxima eta
 * Documentar os avanços do produto.
 
 # Desenvolvimento
-* **Criação da Equipe no Slack**
-* **Criação da Equipe no Jira Software**
-* **Criação do Repositório no GitHub**
-* **Iniciar o código no Google Collab**
-  * Inicio do tratamento de dados
+* **Criação da Equipe no Slack.**
+* **Criação da Equipe no Jira Software.**
+* **Criação do Repositório no GitHub.**
+* **Iniciar o código no Google Collab.**
+  * Inicio do tratamento de dados.
     
