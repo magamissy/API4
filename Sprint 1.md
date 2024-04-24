@@ -39,7 +39,8 @@ Com essas bases estabelecidas, estamos prontos para avançar para a próxima eta
 * **Criação da Equipe no Slack.**
 * **Criação da Equipe no Jira Software.**
 * **Criação do Repositório no GitHub.**
-* **Iniciar o código no Google Collab.**
+* **Iniciar Notebook no Google Collab.**
+  * Definir linguaguem para desenvolvimento: Python.
   * Inicio do tratamento de dados.
   * Criação do codigo para leitura dos dados de um arquivo txt.
 * Delegar tarefaz da Sprint 2.
