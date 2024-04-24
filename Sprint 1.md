@@ -41,4 +41,9 @@ Com essas bases estabelecidas, estamos prontos para avançar para a próxima eta
 * **Criação do Repositório no GitHub.**
 * **Iniciar o código no Google Collab.**
   * Inicio do tratamento de dados.
+  * Criação do codigo para leitura dos dados de um arquivo txt.
+* Delegar tarefaz da Sprint 2.
     
+
+
+_**A Sprint 1 foi realizada e está finalizada com sucesso!**_
