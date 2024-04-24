@@ -52,6 +52,6 @@ Com estas metas em mente, estamos preparados para avançar com determinação e 
   * Verificar os tipos de operação de carga encontrados na base de dados (movimentação, transbordo, interior, longo curso...)
   * Verificar valores duplicados na base de atracação
 
-* Delegar tarefaz da Sprint 3.
+* Delegar tarefas da Sprint 3.
     
 
