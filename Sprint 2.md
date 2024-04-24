@@ -45,11 +45,6 @@ Com estas metas em mente, estamos preparados para avançar com determinação e 
 * **Delegação de Tarefas via JiraSoftware.**
 * **Atualização do Repositório no GitHub.**
 * **Continuar desenvolvimento via Google Collab.**
-  * Definir linguaguem para desenvolvimento: Python.
-  * Continuação do tratamento de dados.
-  * Definir caminho para dados de atracação do ano de 2023
-  * Excluir dados referentes aos outros anos presentes na base de dados
-  * Definir colunas da movimentação de carga (origem, destino, mercadoria...)
   * Iniciar filtros na base de carga
   * Definir dicionário de parametros
   * Aplicar filtros nos parametro
