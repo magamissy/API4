@@ -57,6 +57,12 @@ Com essas bases estabelecidas, estamos prontos para avançar para a próxima eta
   * Definir linguaguem para desenvolvimento: Python.
   * Inicio do tratamento de dados.
   * Criação do codigo para leitura dos dados de um arquivo txt.
+  * Importar bibliotecas: pandas, numpy, matplotlib, sklearn
+  * Definir display máximo das colunas
+  * Alocar dados no google drive
+  * Definir caminho para dados de atracação do ano de 2023
+  * Excluir dados referentes aos outros anos presentes na base de dados
+  * Definir colunas da movimentação de carga (origem, destino, mercadoria...)
 * Delegar tarefaz da Sprint 2.
     
 
