@@ -37,8 +37,8 @@ Com estas metas em mente, estamos preparados para avançar com determinação e 
 # :ballot_box_with_check: BackLog do Produto:
 ## Objetivos da Sprint 2:
 * Reunir a equipe para desenvolvimento do projeto.
+* Lapidar a amostragem dos dados para análise.
 * Documentar os avanços do produto.
-* 
 
 # Desenvolvimento
 * **Reunião de Equipe para desenvolvimento via Slack.**
