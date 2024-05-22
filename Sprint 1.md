@@ -36,8 +36,8 @@ Com essas bases estabelecidas, estamos prontos para avançar para a próxima eta
 
 # :ship: Objeto de Estudo
 > Dados Fornecidos pelo Cliente.
-* Porto Navegantes de Santa Catarina.
-* Dados de Atracação e Saída dos Navios que movimentam Soja no PortoNave.
+* Os 5 principais portos com maior movimentação de carga.
+* Dados de Atracação e Saída dos Navios que movimentam Minério de Ferro.
 * Análise da Movimentação de 2023.
 
 <span id="backlog">
