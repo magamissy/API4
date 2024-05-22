@@ -1,4 +1,4 @@
-Primeira etapa do Projeto analisando a movimentação de carga no Porto Navegantes de Santa Catarina. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
+Primeira etapa do Projeto analisando a movimentação de carga nos portos brasileiros. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
 
  <p align="center">
      <a href="#sprint">Sprint 1</a> • 
