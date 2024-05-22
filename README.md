@@ -1,6 +1,6 @@
 ![magamissy](header.3_20240416_214430_0000.png)
 
-Acompanhamento do processo de aprendizagem por projeto integrador analisando a movimentação de carga no Porto Navegantes de Santa Catarina. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
+Acompanhamento do processo de aprendizagem por projeto integrador analisando a movimentação de carga nos portos brasileiros. Trabalho pertencente a matéria de Projeto Integrador do 4° Semestre de Logística/2024 pela FATEC SJC.
 
  <p align="center">
      <a href="#empresa">Empresa</a> • 
@@ -73,7 +73,7 @@ O objetivo deste projeto é desenvolver uma série histórica acessível que con
 Sprint ID | Data | Tag | Status
 ----------|-----|-----|-------
 #1 | 16/04/2024 | <p><a >1ª Sprint</a></p> | CONCLUÍDO
-#2 | 07/05/2024 | <p><a >2ª Sprint</a></p> | IN PROGRESS
+#2 | 07/05/2024 | <p><a >2ª Sprint</a></p> | CONCLUÍDO
 #3 | 28/05/2024 | <p><a >3ª Sprint</a></p> | IN PROGRESS
 #4 | 18/06/2024 | <p><a >4ª Sprint</a></p> | IN PROGRESS
 
@@ -88,7 +88,11 @@ Sprint ID | Data | Tag | Status
 
 **Sprint 2:**
 >    Presentation 07/05/2024
-* A definir pelo cliente...
+* Criação da Parte do Código para Seleção dos Dados de Atracação
+* Criação da Parte do Código para Seleção dos Dados de Carga
+* Concatenação dos Dados em Python
+* Documentação do Código até o Fim da Sprint 2
+* Atribuição da Sprint 3
 
 
 **Sprint 3:**
