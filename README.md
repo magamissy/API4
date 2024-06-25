@@ -74,8 +74,8 @@ Sprint ID | Data | Tag | Status
 ----------|-----|-----|-------
 #1 | 16/04/2024 | <p><a >1ª Sprint</a></p> | CONCLUÍDO
 #2 | 07/05/2024 | <p><a >2ª Sprint</a></p> | CONCLUÍDO
-#3 | 28/05/2024 | <p><a >3ª Sprint</a></p> | IN PROGRESS
-#4 | 18/06/2024 | <p><a >4ª Sprint</a></p> | IN PROGRESS
+#3 | 28/05/2024 | <p><a >3ª Sprint</a></p> | CONCLUÍDO
+#4 | 18/06/2024 | <p><a >4ª Sprint</a></p> | CONCLUÍDO
 
 
 **Sprint 1:**
