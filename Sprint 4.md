@@ -38,9 +38,11 @@ Com essas metas estabelecidas, estamos prontos para avançar com foco e eficáci
 # :ballot_box_with_check: BackLog do Produto:
 ## Objetivos da Sprint 4:
 * Reunir a equipe para desenvolvimento do projeto.
-* Classificação dos Top 5 Portos que movimentam minério de ferro.
-* Visualização no Power BI.
-* Análise da Prancha Média através do Excel.
+* Desenvolvimento do Power BI.
+* Utilizar as informações do Top 5 como output.
+* Extrair informações de input através dos dados contidos no Power BI.
+* Utilizar o método DEA no Excel para os dados do ano de 2023.
+* Compor apresentação da Feira de Soluções.
 * Documentar os avanços do produto.
 
 # Desenvolvimento
@@ -50,8 +52,8 @@ Com essas metas estabelecidas, estamos prontos para avançar com foco e eficáci
 * **Continuar desenvolvimento via Google Collab.**
   * Concluir análise da base de cargas.
   * Gerar informações para análise com base nos top 5 complexos portuários que movimentaram minério de ferro no Brasil.
-  * Gerar Prancha média e horas de operação (embarque de minério de ferro).
-  * Gerar análise da Prancha Média no Excel.
+  * Gerar top 20 berços que mais embarcam de minério de ferro.
+  * Aplicar método DEA no Excel para análise.
 * Acrescentar Sprint 4 ao Github
 * Finalizar Relatório com Base no Anexo 5.
 * Concluir projeto.
