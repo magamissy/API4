@@ -43,7 +43,7 @@ Com essas metas estabelecidas, estamos prontos para avançar com foco e eficáci
 * Compor apresentação da Feira de Soluções.
 * Documentar os avanços do produto.
 
-# Desenvolvimento
+# :fast_forward: Desenvolvimento
 * **Reunião de Equipe para desenvolvimento via Slack.**
 * **Delegação de Tarefas via JiraSoftware.**
 * **Atualização do Repositório no GitHub.**
@@ -58,5 +58,6 @@ Com essas metas estabelecidas, estamos prontos para avançar com foco e eficáci
 * Apresentação na Feira de Soluções.
 
 <span id="code">
-# Código do Projeto
+ 
+# :construction: Código do Projeto
 * **link direto:
