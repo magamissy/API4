@@ -63,7 +63,10 @@ Com essas metas estabelecidas, estamos prontos para avançar com foco e eficáci
 * Acesse todos os arquivos completos do nosso projeto!
   
   **Link direto Google Colab:** https://colab.research.google.com/drive/1iVzFvKR44z-PLrliLkZYf5xoudLsMDHo?usp=sharing
+  
   **Link direto Power BI:**
+  
   **Link direto Planilha DEA:**
-  **Relatório do Projeto:**
+  
+  **Relatório do Projeto:** https://fatecspgov-my.sharepoint.com/:w:/g/personal/ana_cordeiros_fatec_sp_gov_br/EXk-wtBsCwFIksNBZXmFOLgBefVcmoWbAttU1qkkurtZ5A?e=hbnjXc
 
